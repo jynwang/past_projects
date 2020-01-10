@@ -1,2 +1,2 @@
-# past_projects
-This repository shows a collection of Jieyun Wang's past data analysis related projects. 
+# selected_projects
+This repository shows a collection of Jieyun Wang's past selected data analysis related projects. 
